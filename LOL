@@ -1,0 +1,4 @@
+*Crear rama de desarrollo (listo)
+*Solucionar conflictos
+*Solucionar Bugs
+
